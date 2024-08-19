@@ -1,5 +1,5 @@
-# DAA-Algorithms
-DAA Algorithms Collection
+# DS-Algorithms
+DS Algorithms Collection
 
 ## _Used Languages is:_
 
